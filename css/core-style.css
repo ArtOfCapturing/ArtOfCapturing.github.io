@@ -566,7 +566,8 @@ img {
 .social-info-area {
       opacity: 1 !important;
       position: absolute;
-      bottom: 0;
+      bottom: 5%;
+      left: 27%;
 }
 
 .social-info-area a {
